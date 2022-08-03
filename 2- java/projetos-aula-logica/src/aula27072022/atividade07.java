@@ -3,7 +3,7 @@ package aula27072022;
 
 import java.util.Scanner;
 
-public class Atividade07 {
+public class atividade07 {
     public static void main(String[] args) {
         int num = 0;
         Scanner teclado = new Scanner(System.in);
